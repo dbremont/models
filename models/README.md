@@ -1,3 +1,0 @@
-# Models
-
-> List of models.
